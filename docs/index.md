@@ -1,8 +1,11 @@
 ---
 title: "Workshop Recording: Introduction to Using NVivo 14/15 for Qualitative Data Analysis (Windows Version) (Nov. 12, 2024)"
 layout: "home"
-description: ""
+description: "This page provides a video recording of an introductory workshop on NVivo 14/15 for Windows."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
 ---
 
 # Workshop Recording: Introduction to Using NVivo 14/15 for Qualitative Data Analysis (Windows Version) (Nov. 12, 2024)
@@ -23,6 +26,8 @@ This page provides a video recording of an introductory workshop on NVivo 14/15 
 
 UofT Libraries provides a free license for NVivo. To obtain a license key, fill out our [request form](https://mdl.library.utoronto.ca/technology/nvivo-software).
 
-[**Recording \- 1:29:30**](https://play.library.utoronto.ca/watch/30208ba797e6dab0b4ee1e77c6ad9f5e) **\&**[**Setup Instructions**](https://maps.library.utoronto.ca/workshops/NVivo14/windows/SetupInstructions.pdf) **(includes how to get slides, workshop files, handouts, etc.)**
+[**Recording \- 1:29:30**](https://play.library.utoronto.ca/watch/30208ba797e6dab0b4ee1e77c6ad9f5e) **&** [**Setup Instructions**](https://maps.library.utoronto.ca/workshops/NVivo14/windows/SetupInstructions.pdf) **(includes how to get slides, workshop files, handouts, etc.)**
 
-Technique: [Qualitative Data Analysis](/technique/qualitative-data-analysis) \| Tools: [NVivo](/tools/nvivo)**Date Created:** 2025\-01\-28**Updated:** 2025\-01\-28
+Technique: [Qualitative Data Analysis](/technique/qualitative-data-analysis) \| Tools: [NVivo](/tools/nvivo)
+
+**Date Created:** 2025\-01\-28 **Updated:** 2025\-01\-28
