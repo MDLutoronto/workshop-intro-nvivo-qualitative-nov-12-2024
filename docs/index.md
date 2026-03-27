@@ -5,6 +5,9 @@ description: "This page provides a video recording of an introductory workshop o
 permalink: "/"  #! Remove this if not the homepage
 staff:
  - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz  
+maintainer:
+ - name: Kelly Schultz
    link: https://library.utoronto.ca/staff/kelly-schultz
 ---
 
