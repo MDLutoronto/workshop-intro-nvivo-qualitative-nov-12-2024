@@ -12,7 +12,7 @@ maintainer:
 created_date: 2025-01-28
 ---
 
-# Workshop Recording: Introduction to Using NVivo 14/15 for Qualitative Data Analysis (Windows Version) (Nov. 12, 2024)
+# Workshop Recording: Introduction to Using NVivo 14/15 for Qualitative Data Analysis (Windows Version) (Jan. 28, 2025)
 
 This page provides a video recording of an introductory workshop on NVivo 14/15 for Windows.
 
@@ -22,18 +22,18 @@ This page provides a video recording of an introductory workshop on NVivo 14/15 
 
 **Why:** Learning qualitative data analysis skills and tools will help you organize and participate in qualitative research projects, gain insights into your data, communicate your findings, and stand out in the job market.
 
-**Software:** Faculty, staff, and students at the University of Toronto can get a free license key for NVivo. *Note*: Either version (NVivo 14 or 15) can be used for this workshop; however, NVivo works differently on Macs vs Windows. If you are running NVivo on a Mac, you should attend the Introduction to NVivo 14/15 (Mac Version) workshop instead.
+**Software:** Faculty, staff, and students at the University of Toronto can get a free license key for NVivo. *Note*: Either version (NVivo 14 or 15) can be used for this workshop; however, NVivo works differently on Macs vs Windows. If you are running NVivo on a Mac, you should watch the [Introduction to NVivo 14/15 (Mac Version) workshop recording](https://mdlutoronto.github.io/workshop-intro-nvivo-qualitative-nov-26-2024/) instead.
 
 **Who:** This workshop is designed for those new to NVivo 14/15. Skills gained can help participants working with qualitative data from any discipline: Humanities, Social Sciences, or Sciences. There are no prerequisites or assumptions of knowledge of statistics or programming.
 
-**How:** This is a 2.5-hour online workshop, consisting of a short lecture and then a series of demonstrations, which you can follow along with or just watch, interspersed with self-paced activities.
+**How:** This is a 2.5-hour online workshop (but a shorter recording time due to activity breaks), consisting of a short lecture and then a series of demonstrations, which you can follow along with or just watch, interspersed with self-paced activities.
 
 UofT Libraries provides a free license for NVivo. To obtain a license key, fill out our [request form](https://mdl.library.utoronto.ca/technology/nvivo-software).
 
-[**Recording - 1:29:30**](https://play.library.utoronto.ca/watch/30208ba797e6dab0b4ee1e77c6ad9f5e)
+[**Recording - 1:42:29**](https://play.library.utoronto.ca/watch/09a91c4a8647d84b52f7f9727ff99b7a)
 
-<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/30208ba797e6dab0b4ee1e77c6ad9f5e" frameborder="0" allowfullscreen> iframe not supported </iframe>
+<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/09a91c4a8647d84b52f7f9727ff99b7a" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
-[**Setup Instructions**](https://maps.library.utoronto.ca/workshops/NVivo14/windows/SetupInstructionsWindows.pdf) **(includes how to get slides, workshop files, handouts, etc.)**
+[**Setup Instructions**](https://maps.library.utoronto.ca/workshops/NVivo14/Windows/SetupInstructionsWindows.pdf) **(includes how to get slides, workshop files, handouts, etc.)**
 
 **Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) | **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
