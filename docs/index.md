@@ -28,7 +28,7 @@ This page provides a video recording of an introductory workshop on NVivo 14/15 
 
 **How:** This is a 2.5-hour online workshop (but a shorter recording time due to activity breaks), consisting of a short lecture and then a series of demonstrations, which you can follow along with or just watch, interspersed with self-paced activities.
 
-UofT Libraries provides a free license for NVivo. To obtain a license key, fill out our [request form](https://mdl.library.utoronto.ca/technology/nvivo-software).
+UofT Libraries provides a free license for NVivo. To obtain a license key, fill out our [request form](https://forms.cloud.microsoft/r/X7T8tmMpjP).
 
 [**Recording - 1:42:29**](https://play.library.utoronto.ca/watch/09a91c4a8647d84b52f7f9727ff99b7a)
 
@@ -36,4 +36,4 @@ UofT Libraries provides a free license for NVivo. To obtain a license key, fill 
 
 [**Setup Instructions**](https://maps.library.utoronto.ca/workshops/NVivo14/Windows/SetupInstructionsWindows.pdf) **(includes how to get slides, workshop files, handouts, etc.)**
 
-**Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) | **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
+**Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
