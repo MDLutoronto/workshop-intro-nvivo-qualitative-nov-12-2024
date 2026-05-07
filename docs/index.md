@@ -1,5 +1,5 @@
 ---
-title: "Workshop Recording: Introduction to Using NVivo 14/15 for Qualitative Data Analysis (Windows Version) (Nov. 12, 2024)"
+title: "Workshop Recording: Introduction to Using NVivo 14/15 for Qualitative Data Analysis (Windows Version) (Jan. 28, 2025)"
 layout: "home"
 description: "This page provides a video recording of an introductory workshop on NVivo 14/15 for Windows."
 permalink: "/"  #! Remove this if not the homepage
